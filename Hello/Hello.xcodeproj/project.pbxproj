@@ -14,6 +14,7 @@
 		C246120F1CA50FB100E96DE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C246120E1CA50FB100E96DE1 /* Assets.xcassets */; };
 		C24612121CA50FB100E96DE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C24612101CA50FB100E96DE1 /* LaunchScreen.storyboard */; };
 		C25D25A31CA51C6A00B85401 /* AViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C25D25A21CA51C6A00B85401 /* AViewController.m */; settings = {ASSET_TAGS = (); }; };
+		C25D25A61CA51C8E00B85401 /* BViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C25D25A51CA51C8E00B85401 /* BViewController.m */; settings = {ASSET_TAGS = (); }; };
 		FB5F7A150D4A701E45F92BD6 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8485360E2F5ADDD484B6B023 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -32,6 +33,8 @@
 		C24612131CA50FB100E96DE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C25D25A11CA51C6A00B85401 /* AViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AViewController.h; sourceTree = "<group>"; };
 		C25D25A21CA51C6A00B85401 /* AViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AViewController.m; sourceTree = "<group>"; };
+		C25D25A41CA51C8E00B85401 /* BViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BViewController.h; sourceTree = "<group>"; };
+		C25D25A51CA51C8E00B85401 /* BViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BViewController.m; sourceTree = "<group>"; };
 		F4A259E206A0B51BB79A6C8F /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -96,6 +99,8 @@
 				C24612021CA50FB100E96DE1 /* Supporting Files */,
 				C25D25A11CA51C6A00B85401 /* AViewController.h */,
 				C25D25A21CA51C6A00B85401 /* AViewController.m */,
+				C25D25A41CA51C8E00B85401 /* BViewController.h */,
+				C25D25A51CA51C8E00B85401 /* BViewController.m */,
 			);
 			path = Hello;
 			sourceTree = "<group>";
@@ -232,6 +237,7 @@
 				C25D25A31CA51C6A00B85401 /* AViewController.m in Sources */,
 				C246120A1CA50FB100E96DE1 /* ViewController.m in Sources */,
 				C24612071CA50FB100E96DE1 /* AppDelegate.m in Sources */,
+				C25D25A61CA51C8E00B85401 /* BViewController.m in Sources */,
 				C24612041CA50FB100E96DE1 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
