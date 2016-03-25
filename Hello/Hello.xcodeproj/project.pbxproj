@@ -16,6 +16,8 @@
 		C246121B1CA51C7300E96DE1 /* tableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C246121A1CA51C7300E96DE1 /* tableViewController.m */; settings = {ASSET_TAGS = (); }; };
 		C246121E1CA51D4700E96DE1 /* hahaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C246121D1CA51D4700E96DE1 /* hahaViewController.m */; settings = {ASSET_TAGS = (); }; };
 		C24612211CA51DD200E96DE1 /* hiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C24612201CA51DD200E96DE1 /* hiViewController.m */; settings = {ASSET_TAGS = (); }; };
+		C25D25A91CA5273400B85401 /* AViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C25D25A81CA5273400B85401 /* AViewController.m */; settings = {ASSET_TAGS = (); }; };
+		C25D25AC1CA5273900B85401 /* BViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C25D25AB1CA5273900B85401 /* BViewController.m */; settings = {ASSET_TAGS = (); }; };
 		FB5F7A150D4A701E45F92BD6 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8485360E2F5ADDD484B6B023 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -38,6 +40,10 @@
 		C246121D1CA51D4700E96DE1 /* hahaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = hahaViewController.m; sourceTree = "<group>"; };
 		C246121F1CA51DD200E96DE1 /* hiViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hiViewController.h; sourceTree = "<group>"; };
 		C24612201CA51DD200E96DE1 /* hiViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = hiViewController.m; sourceTree = "<group>"; };
+		C25D25A71CA5273400B85401 /* AViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AViewController.h; sourceTree = "<group>"; };
+		C25D25A81CA5273400B85401 /* AViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AViewController.m; sourceTree = "<group>"; };
+		C25D25AA1CA5273900B85401 /* BViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BViewController.h; sourceTree = "<group>"; };
+		C25D25AB1CA5273900B85401 /* BViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BViewController.m; sourceTree = "<group>"; };
 		F4A259E206A0B51BB79A6C8F /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -101,6 +107,10 @@
 				C246121D1CA51D4700E96DE1 /* hahaViewController.m */,
 				C246121F1CA51DD200E96DE1 /* hiViewController.h */,
 				C24612201CA51DD200E96DE1 /* hiViewController.m */,
+				C25D25A71CA5273400B85401 /* AViewController.h */,
+				C25D25A81CA5273400B85401 /* AViewController.m */,
+				C25D25AA1CA5273900B85401 /* BViewController.h */,
+				C25D25AB1CA5273900B85401 /* BViewController.m */,
 				C246120B1CA50FB100E96DE1 /* Main.storyboard */,
 				C246120E1CA50FB100E96DE1 /* Assets.xcassets */,
 				C24612101CA50FB100E96DE1 /* LaunchScreen.storyboard */,
@@ -240,9 +250,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				C246120A1CA50FB100E96DE1 /* ViewController.m in Sources */,
+				C25D25A91CA5273400B85401 /* AViewController.m in Sources */,
 				C24612071CA50FB100E96DE1 /* AppDelegate.m in Sources */,
 				C246121E1CA51D4700E96DE1 /* hahaViewController.m in Sources */,
 				C24612041CA50FB100E96DE1 /* main.m in Sources */,
+				C25D25AC1CA5273900B85401 /* BViewController.m in Sources */,
 				C246121B1CA51C7300E96DE1 /* tableViewController.m in Sources */,
 				C24612211CA51DD200E96DE1 /* hiViewController.m in Sources */,
 			);
