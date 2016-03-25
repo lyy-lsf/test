@@ -14,6 +14,7 @@
 		C246120F1CA50FB100E96DE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C246120E1CA50FB100E96DE1 /* Assets.xcassets */; };
 		C24612121CA50FB100E96DE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C24612101CA50FB100E96DE1 /* LaunchScreen.storyboard */; };
 		C246121B1CA51C7300E96DE1 /* tableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C246121A1CA51C7300E96DE1 /* tableViewController.m */; settings = {ASSET_TAGS = (); }; };
+		C246121E1CA51D4700E96DE1 /* hahaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C246121D1CA51D4700E96DE1 /* hahaViewController.m */; settings = {ASSET_TAGS = (); }; };
 		FB5F7A150D4A701E45F92BD6 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8485360E2F5ADDD484B6B023 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -32,6 +33,8 @@
 		C24612131CA50FB100E96DE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C24612191CA51C7300E96DE1 /* tableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tableViewController.h; sourceTree = "<group>"; };
 		C246121A1CA51C7300E96DE1 /* tableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tableViewController.m; sourceTree = "<group>"; };
+		C246121C1CA51D4700E96DE1 /* hahaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hahaViewController.h; sourceTree = "<group>"; };
+		C246121D1CA51D4700E96DE1 /* hahaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = hahaViewController.m; sourceTree = "<group>"; };
 		F4A259E206A0B51BB79A6C8F /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -91,6 +94,8 @@
 				C24612091CA50FB100E96DE1 /* ViewController.m */,
 				C24612191CA51C7300E96DE1 /* tableViewController.h */,
 				C246121A1CA51C7300E96DE1 /* tableViewController.m */,
+				C246121C1CA51D4700E96DE1 /* hahaViewController.h */,
+				C246121D1CA51D4700E96DE1 /* hahaViewController.m */,
 				C246120B1CA50FB100E96DE1 /* Main.storyboard */,
 				C246120E1CA50FB100E96DE1 /* Assets.xcassets */,
 				C24612101CA50FB100E96DE1 /* LaunchScreen.storyboard */,
@@ -231,6 +236,7 @@
 			files = (
 				C246120A1CA50FB100E96DE1 /* ViewController.m in Sources */,
 				C24612071CA50FB100E96DE1 /* AppDelegate.m in Sources */,
+				C246121E1CA51D4700E96DE1 /* hahaViewController.m in Sources */,
 				C24612041CA50FB100E96DE1 /* main.m in Sources */,
 				C246121B1CA51C7300E96DE1 /* tableViewController.m in Sources */,
 			);
