@@ -72,6 +72,7 @@
 			children = (
 				C24612011CA50FB100E96DE1 /* Hello */,
 				C24612001CA50FB100E96DE1 /* Products */,
+				C24612021CA50FB100E96DE1 /* Supporting Files */,
 				6109247DD07EA496DA026C45 /* Pods */,
 				5759AA33ED5F22B2F7E0FCFE /* Frameworks */,
 			);
@@ -96,7 +97,6 @@
 				C246120E1CA50FB100E96DE1 /* Assets.xcassets */,
 				C24612101CA50FB100E96DE1 /* LaunchScreen.storyboard */,
 				C24612131CA50FB100E96DE1 /* Info.plist */,
-				C24612021CA50FB100E96DE1 /* Supporting Files */,
 				C25D25A11CA51C6A00B85401 /* AViewController.h */,
 				C25D25A21CA51C6A00B85401 /* AViewController.m */,
 				C25D25A41CA51C8E00B85401 /* BViewController.h */,
@@ -111,6 +111,7 @@
 				C24612031CA50FB100E96DE1 /* main.m */,
 			);
 			name = "Supporting Files";
+			path = Hello;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
